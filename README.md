@@ -19,3 +19,6 @@ or
 ```
 python miniimagenet_train.py --k_spt 1 --meta_lr 5e-5 --update_lr 2e-1 --k_lr 1e-5
 ```
+
+# Contact
+gaozhi_2017@bit.edu.cn
